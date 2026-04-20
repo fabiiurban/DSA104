@@ -26,8 +26,6 @@ transformers = [
  HEAD
     "numpy>=1.26",
     "transformers>=5.5.4",
-
-    "transformers>=4.4",
 upstream/main
 ]
 
